@@ -5,9 +5,9 @@ Transformo dados em informações claras para decisão, com **SQL, Python e Powe
 Estou em busca de **estágio em Análise de Dados / BI**.
 
 ## 🛠️ Stack
-**Dados:** SQL · Python (Pandas, NumPy) · Power BI · Excel
-**Visualização:** Matplotlib · Seaborn · Plotly
-**Ferramentas:** Git · GitHub · Jupyter · Google Colab
+- **Dados:** SQL · Python (Pandas, NumPy) · Power BI · Excel
+- **Visualização:** Matplotlib · Seaborn · Plotly
+- **Ferramentas:** Git · GitHub · Jupyter · Google Colab
 
 ## 📊 Projetos em destaque
 | Projeto | O que responde | Stack |
